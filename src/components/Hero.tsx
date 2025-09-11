@@ -20,7 +20,7 @@ export const Hero = () => {
                 🚗 Now launching in Lagos
               </div>
               <h1 className="text-5xl lg:text-7xl font-bold text-foreground leading-tight">
-                <span className="block">Okemoto</span>
+                <span className="block">Okemotto</span>
                 <span className="block text-3xl lg:text-4xl font-normal text-muted-foreground mt-2">
                   Turn Every Drive into Extra Cash
                 </span>
