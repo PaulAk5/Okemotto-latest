@@ -32,7 +32,7 @@ export const HowItWorks = () => {
             How It Works
           </h2>
           <p className="text-xl text-muted-foreground">
-            Getting started is simple. Here's how you can begin earning with Okemoto.
+            Getting started is simple. Here's how you can begin earning with Okemotto.
           </p>
         </div>
         
