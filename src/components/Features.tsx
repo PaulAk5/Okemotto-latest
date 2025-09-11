@@ -29,7 +29,7 @@ export const Features = () => {
       <div className="container mx-auto px-6 lg:px-8">
         <div className="text-center max-w-3xl mx-auto mb-16">
           <h2 className="text-4xl lg:text-5xl font-bold text-foreground mb-6">
-            Why Drive with Okemoto?
+            Why Drive with Okemotto?
           </h2>
           <p className="text-xl text-muted-foreground leading-relaxed">
             We install lightweight, weatherproof rooftop advertising units on your car at no cost to you. 
