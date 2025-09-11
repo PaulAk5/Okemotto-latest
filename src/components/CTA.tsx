@@ -13,7 +13,7 @@ export const CTA = () => {
             Ready to Turn Your Drive Into Income?
           </h2>
           <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
-            Join hundreds of drivers already on our waitlist. Be among the first to start earning with Okemoto.
+            Join hundreds of drivers already on our waitlist. Be among the first to start earning with Okemotto.
           </p>
           
           <Button 
