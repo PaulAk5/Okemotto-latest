@@ -77,7 +77,7 @@ export const Hero = () => {
             
             {/* Floating elements */}
             <div className="absolute -top-4 -right-4 bg-mint text-foreground p-4 rounded-xl shadow-lg">
-              <div className="text-2xl font-bold">₦75,000</div>
+              <div className="text-2xl font-bold">₦50,000</div>
               <div className="text-sm">avg. monthly earnings</div>
             </div>
             
