@@ -3,7 +3,7 @@ import heroImage from "@/assets/hero-car.jpg";
 
 export const Hero = () => {
   const openGoogleForm = () => {
-    window.open('https://forms.zohopublic.com/akintundepau123gm1/form/DriverWaitlist/formperma/ur-ILS3OJpU7bOP4-_zeQ12J1IUDt4f_7-zNjZA0xE', '_blank');
+    window.open('https://forms.zohopublic.com/akintundepau123gm1/form/DriverWaitlist/formperma/ur-ILS3OJpU7bOP4-_zeQ12J1IUDt4f_7-zNjZZA0xE');
   };
 
   return (
