@@ -23,7 +23,7 @@ export const Benefits = () => {
                 Good Condition Vehicle
               </h3>
               <p className="text-muted-foreground">
-                2010 model year or newer
+                Neat-looking vehicle
               </p>
             </div>
             
